@@ -14,14 +14,14 @@ Cine-Stream is a movie discovery app upgraded from a Vite SPA to **Next.js 15 (A
 
 # Tech Stack
 
-Next.js 15+ (App Router) 
-React 19 
-Tailwind CSS 4.0
-TMDB API 
-Fetch API
-React Context API
-ESLint 
-Node.js 
+- React 19 
+- Tailwind CSS 4.0
+- TMDB API 
+- Fetch API
+- React Context API
+- ESLint 
+- Next.js 15+ (App Router) 
+- Node.js 
 
 # GitHub Setup
 

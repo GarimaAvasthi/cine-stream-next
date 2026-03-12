@@ -3,6 +3,7 @@
 Cine-Stream is a movie discovery app upgraded from a Vite SPA to **Next.js 15 (App Router)** with **SSR**, **Server Components**, and **SEO-friendly dynamic routes**.
 
 ## Vercel Application 
+https://cine-stream-next.vercel.app/
 
 
 # Key features:
